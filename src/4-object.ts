@@ -116,18 +116,24 @@ product3 = {
       ]
     }
 */
-interface Address {
-    street: string;
-    city: string;
-}
+// interface Address {
+//     street: string;
+//     city: string;
+// }
 
-interface User {
+// interface User {
+//     id: string;
+//     name: string;
+//     address: Array<Address>;
+// }
+
+interface Data {
     id: string;
     name: string;
-    address: Array<Address>;
+    address: Array<{street: string, city: string}>;
 }
 
-let Bio: User;
+let Bio: Data;
 Bio = {
     id: 'U-1',
     name: 'Adi dodi',
