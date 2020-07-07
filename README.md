@@ -32,9 +32,9 @@ This repo contain resource of Bicara Typescript.
 
 ### Exercises :
 
--   [ ] Evaluate all JavaScript Types
--   [ ] undefined vs null vs not defined
--   [ ] Cons & Pros Dynamic Type
+-   [x] Evaluate all JavaScript Types
+-   [x] undefined vs null vs not defined
+-   [x] Cons & Pros Dynamic Type
 
 ## 2. Typescript Types
 
@@ -45,11 +45,11 @@ How to declare typescript type :
 
 ### Exercises :
 
--   [ ] Convert all JavaScript Types to TypeScript
--   [ ] Function Type
--   [ ] Union Type `|`
--   [ ] Type Aliases
--   [ ] Setup Environtment ( eslint, prettier )
+-   [x] Convert all JavaScript Types to TypeScript
+-   [x] Function Type
+-   [x] Union Type `|`
+-   [x] Type Aliases
+-   [x] Setup Environtment ( eslint, prettier )
 
 ## 3. Array & Tuples
 
@@ -66,13 +66,13 @@ There are few ways to declare an array:
 
 ### Exercises :
 
--   [ ] Array of Number
--   [ ] Array of String
--   [ ] Array with Union
--   [ ] Tuple
--   [ ] Array of Object
--   [ ] Array multidimensional
--   [ ] Destructuring
+-   [x] Array of Number
+-   [x] Array of String
+-   [x] Array with Union
+-   [x] Tuple
+-   [x] Array of Object
+-   [x] Array multidimensional
+-   [x] Destructuring
 
 ## 4. Object
 
@@ -80,12 +80,12 @@ Object is a type that represents the non-primitive type, i.e. anything that is n
 
 ### Exercises :
 
--   [ ] Object Literal
--   [ ] Nested Object
--   [ ] Nested, Object of Array
--   [ ] Nested, Object of Object ( Dynamic Properties)
--   [ ] Destructuring
--   [ ] Utility Types ( `ReadOnly, Record` )
+-   [x] Object Literal
+-   [x] Nested Object
+-   [x] Nested, Object of Array
+-   [x] Nested, Object of Object ( Dynamic Properties)
+-   [x] Destructuring
+-   [x] Utility Types ( `ReadOnly, Record` )
 
 ## 5. Functions
 
